@@ -1,0 +1,17 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "AndroidLab"
+include ':app'
+include ':c11'
+include ':c12'
+include ':c17'
+include ':c18'
+include ':c19'
+include ':c20'
+include ':c21'
