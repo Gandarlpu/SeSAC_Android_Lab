@@ -19,8 +19,11 @@
             <option value="$PROJECT_DIR$/c20" />
             <option value="$PROJECT_DIR$/c21" />
             <option value="$PROJECT_DIR$/click_event" />
+            <option value="$PROJECT_DIR$/foler_constraint" />
             <option value="$PROJECT_DIR$/keyevent" />
             <option value="$PROJECT_DIR$/touch_event" />
+            <option value="$PROJECT_DIR$/value_resource" />
+            <option value="$PROJECT_DIR$/xml_image" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
