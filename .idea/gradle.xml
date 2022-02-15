@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/arrayadapter" />
             <option value="$PROJECT_DIR$/c11" />
             <option value="$PROJECT_DIR$/c12" />
             <option value="$PROJECT_DIR$/c17" />
@@ -19,8 +20,12 @@
             <option value="$PROJECT_DIR$/c20" />
             <option value="$PROJECT_DIR$/c21" />
             <option value="$PROJECT_DIR$/click_event" />
+            <option value="$PROJECT_DIR$/cutsomadapter" />
             <option value="$PROJECT_DIR$/foler_constraint" />
             <option value="$PROJECT_DIR$/keyevent" />
+            <option value="$PROJECT_DIR$/listciew_adapter" />
+            <option value="$PROJECT_DIR$/simpleadapter" />
+            <option value="$PROJECT_DIR$/spinner_autotextview" />
             <option value="$PROJECT_DIR$/touch_event" />
             <option value="$PROJECT_DIR$/value_resource" />
             <option value="$PROJECT_DIR$/xml_image" />
