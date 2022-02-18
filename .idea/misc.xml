@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/actionbar/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/activirt_result/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/activirt_result/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/arrayadapter/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/arrayadapter/src/main/res/layout/custom_item.xml" value="0.25364583333333335" />
@@ -16,8 +18,14 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/click_event/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/custom_item.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/foler_constraint/src/main/res/layout-land/activity_main.xml" value="0.21472663139329806" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/foler_constraint/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/implicit_intent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/implicit_intent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/intent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/intent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/listciew_adapter/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menu/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menuinflater/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
