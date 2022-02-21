@@ -31,6 +31,7 @@
             <option value="$PROJECT_DIR$/listciew_adapter" />
             <option value="$PROJECT_DIR$/menu" />
             <option value="$PROJECT_DIR$/menuinflater" />
+            <option value="$PROJECT_DIR$/save_instance" />
             <option value="$PROJECT_DIR$/simpleadapter" />
             <option value="$PROJECT_DIR$/spinner_autotextview" />
             <option value="$PROJECT_DIR$/touch_event" />
