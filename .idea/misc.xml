@@ -9,6 +9,7 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/arrayadapter/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/arrayadapter/src/main/res/layout/custom_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/asynctasks/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c11/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c17/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c18/src/main/res/layout/activity_main.xml" value="0.264" />
@@ -16,6 +17,7 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c20/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c21/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/click_event/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/coroutine/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/custom_item.xml" value="0.2504528985507246" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
@@ -33,6 +35,7 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/save_instance/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/simpleadapter/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/spinner_autotextview/src/main/res/layout/activity_main.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/thread-handler/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/touch_event/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/value_resource/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/xml_image/src/main/res/drawable/my_image.xml" value="0.26979166666666665" />
