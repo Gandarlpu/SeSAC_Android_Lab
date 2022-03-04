@@ -33,7 +33,14 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menu/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menuinflater/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menuinflater/src/main/res/menu/menu_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/preferencefragmentcompat/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/preferencefragmentcompat/src/main/res/layout/fragment_setting.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/preferencefragmentcompat/src/main/res/xml/settings.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/save_instance/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/shard_xml/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/shard_xml/src/main/res/layout/fragment_settings.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/shard_xml/src/main/res/xml/settings.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/sharedpreference/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/simpleadapter/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/spinner_autotextview/src/main/res/layout/activity_main.xml" value="0.14492753623188406" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/thread-handler/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
