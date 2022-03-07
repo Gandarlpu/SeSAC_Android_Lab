@@ -1,0 +1,27 @@
+package com.example.rawquert
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.widget.TextView
+
+class ReadActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_read)
+
+        val titleView = findViewById<TextView>(R.id.read_title)
+        val contentView = findViewById<TextView>(R.id.read_content)
+
+        val helper = DBHelper(this)
+        val db = helper.readableDatabase
+
+        val cursor = db.rawQuery("select title , content from tb_memo order by _id desc limit 1" , null)
+        // cursor를 다음것까지 돌림
+        while (cursor.moveToNext()){
+            titleView.setText(cursor.getString(0))
+            contentView.setText(cursor.getString(1))
+        }
+        db.close()
+
+    }
+}
