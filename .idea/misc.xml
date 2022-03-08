@@ -16,6 +16,9 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c19/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c20/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/c21/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/callapp/src/main/res/layout/activity_main.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/camera/src/main/res/layout/activity_main.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/camera/src/main/res/xml/file_path.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/click_event/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/coroutine/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/activity_main.xml" value="0.2390625" />
@@ -25,6 +28,7 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/foler_constraint/src/main/res/layout-land/activity_main.xml" value="0.21472663139329806" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/foler_constraint/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/gallery/src/main/res/layout/activity_main.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/implicit_intent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/implicit_intent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/intent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
@@ -36,6 +40,7 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/preferencefragmentcompat/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/preferencefragmentcompat/src/main/res/layout/fragment_setting.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/preferencefragmentcompat/src/main/res/xml/settings.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/provider/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/query/src/main/res/layout/activity_main.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/query/src/main/res/layout/activity_read.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/rawquert/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
