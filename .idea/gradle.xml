@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/arrayadapter" />
             <option value="$PROJECT_DIR$/asynctasks" />
+            <option value="$PROJECT_DIR$/bindservice" />
             <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/c11" />
             <option value="$PROJECT_DIR$/c12" />
@@ -44,6 +45,7 @@
             <option value="$PROJECT_DIR$/query" />
             <option value="$PROJECT_DIR$/rawquert" />
             <option value="$PROJECT_DIR$/save_instance" />
+            <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/shard_xml" />
             <option value="$PROJECT_DIR$/sharedpreference" />
             <option value="$PROJECT_DIR$/simpleadapter" />
