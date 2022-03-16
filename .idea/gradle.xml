@@ -39,6 +39,9 @@
             <option value="$PROJECT_DIR$/listciew_adapter" />
             <option value="$PROJECT_DIR$/menu" />
             <option value="$PROJECT_DIR$/menuinflater" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/notification2" />
+            <option value="$PROJECT_DIR$/notification_style" />
             <option value="$PROJECT_DIR$/permission" />
             <option value="$PROJECT_DIR$/preferencefragmentcompat" />
             <option value="$PROJECT_DIR$/provider" />
