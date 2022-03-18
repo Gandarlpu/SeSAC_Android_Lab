@@ -32,12 +32,15 @@
             <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/extraintent" />
             <option value="$PROJECT_DIR$/foler_constraint" />
+            <option value="$PROJECT_DIR$/fusedapi" />
             <option value="$PROJECT_DIR$/gallery" />
+            <option value="$PROJECT_DIR$/googlemap" />
             <option value="$PROJECT_DIR$/implicit_intent" />
             <option value="$PROJECT_DIR$/intent" />
             <option value="$PROJECT_DIR$/jobscheduler" />
             <option value="$PROJECT_DIR$/keyevent" />
             <option value="$PROJECT_DIR$/listciew_adapter" />
+            <option value="$PROJECT_DIR$/locationmanager" />
             <option value="$PROJECT_DIR$/menu" />
             <option value="$PROJECT_DIR$/menuinflater" />
             <option value="$PROJECT_DIR$/notification" />
