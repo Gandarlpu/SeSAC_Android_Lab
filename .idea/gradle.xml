@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/callapp" />
             <option value="$PROJECT_DIR$/camera" />
             <option value="$PROJECT_DIR$/click_event" />
+            <option value="$PROJECT_DIR$/connectmanager" />
             <option value="$PROJECT_DIR$/coroutine" />
             <option value="$PROJECT_DIR$/cutsomadapter" />
             <option value="$PROJECT_DIR$/dialog" />
@@ -34,6 +35,7 @@
             <option value="$PROJECT_DIR$/foler_constraint" />
             <option value="$PROJECT_DIR$/fusedapi" />
             <option value="$PROJECT_DIR$/gallery" />
+            <option value="$PROJECT_DIR$/glide" />
             <option value="$PROJECT_DIR$/googlemap" />
             <option value="$PROJECT_DIR$/implicit_intent" />
             <option value="$PROJECT_DIR$/intent" />
@@ -51,6 +53,7 @@
             <option value="$PROJECT_DIR$/provider" />
             <option value="$PROJECT_DIR$/query" />
             <option value="$PROJECT_DIR$/rawquert" />
+            <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/save_instance" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/shard_xml" />
