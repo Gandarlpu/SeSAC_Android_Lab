@@ -65,6 +65,7 @@
             <option value="$PROJECT_DIR$/touch_event" />
             <option value="$PROJECT_DIR$/value_resource" />
             <option value="$PROJECT_DIR$/vibration_beep" />
+            <option value="$PROJECT_DIR$/viewbinding" />
             <option value="$PROJECT_DIR$/xml_image" />
           </set>
         </option>
