@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/extraintent" />
             <option value="$PROJECT_DIR$/foler_constraint" />
+            <option value="$PROJECT_DIR$/fragment" />
             <option value="$PROJECT_DIR$/fusedapi" />
             <option value="$PROJECT_DIR$/gallery" />
             <option value="$PROJECT_DIR$/glide" />
@@ -53,6 +54,7 @@
             <option value="$PROJECT_DIR$/provider" />
             <option value="$PROJECT_DIR$/query" />
             <option value="$PROJECT_DIR$/rawquert" />
+            <option value="$PROJECT_DIR$/recyclerview" />
             <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/save_instance" />
             <option value="$PROJECT_DIR$/service" />

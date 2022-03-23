@@ -30,6 +30,9 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/foler_constraint/src/main/res/layout-land/activity_main.xml" value="0.21472663139329806" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/foler_constraint/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/fragment/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/fragment/src/main/res/layout/fragment_one.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/fragment/src/main/res/layout/fragment_two.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/fusedapi/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/gallery/src/main/res/layout/activity_main.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/glide/src/main/res/layout/activity_main.xml" value="0.13496376811594202" />
@@ -56,6 +59,8 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/query/src/main/res/layout/activity_read.xml" value="0.14266304347826086" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/rawquert/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/rawquert/src/main/res/layout/activity_read.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/recyclerview/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/recyclerview/src/main/res/layout/item_main.xml" value="0.12335359675785208" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/retrofit/src/main/res/layout/activity_main.xml" value="0.13496376811594202" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/save_instance/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/service/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
