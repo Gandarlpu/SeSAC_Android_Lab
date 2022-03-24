@@ -32,6 +32,7 @@
             <option value="$PROJECT_DIR$/cutsomadapter" />
             <option value="$PROJECT_DIR$/dialog" />
             <option value="$PROJECT_DIR$/extraintent" />
+            <option value="$PROJECT_DIR$/floatingactionbutton" />
             <option value="$PROJECT_DIR$/foler_constraint" />
             <option value="$PROJECT_DIR$/fragment" />
             <option value="$PROJECT_DIR$/fusedapi" />
@@ -64,10 +65,12 @@
             <option value="$PROJECT_DIR$/spinner_autotextview" />
             <option value="$PROJECT_DIR$/sqlitedatabase" />
             <option value="$PROJECT_DIR$/thread-handler" />
+            <option value="$PROJECT_DIR$/toolbar" />
             <option value="$PROJECT_DIR$/touch_event" />
             <option value="$PROJECT_DIR$/value_resource" />
             <option value="$PROJECT_DIR$/vibration_beep" />
             <option value="$PROJECT_DIR$/viewbinding" />
+            <option value="$PROJECT_DIR$/viewpager" />
             <option value="$PROJECT_DIR$/xml_image" />
           </set>
         </option>
