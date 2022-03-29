@@ -31,6 +31,7 @@
             <option value="$PROJECT_DIR$/coroutine" />
             <option value="$PROJECT_DIR$/cutsomadapter" />
             <option value="$PROJECT_DIR$/dialog" />
+            <option value="$PROJECT_DIR$/drawerlayout" />
             <option value="$PROJECT_DIR$/extraintent" />
             <option value="$PROJECT_DIR$/floatingactionbutton" />
             <option value="$PROJECT_DIR$/foler_constraint" />
@@ -44,6 +45,7 @@
             <option value="$PROJECT_DIR$/jobscheduler" />
             <option value="$PROJECT_DIR$/keyevent" />
             <option value="$PROJECT_DIR$/listciew_adapter" />
+            <option value="$PROJECT_DIR$/livedata" />
             <option value="$PROJECT_DIR$/locationmanager" />
             <option value="$PROJECT_DIR$/menu" />
             <option value="$PROJECT_DIR$/menuinflater" />

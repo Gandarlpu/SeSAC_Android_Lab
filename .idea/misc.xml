@@ -26,6 +26,9 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/cutsomadapter/src/main/res/layout/custom_item.xml" value="0.2504528985507246" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/dialog/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/drawerlayout/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/drawerlayout/src/main/res/layout/navigation_header.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/drawerlayout/src/main/res/menu/menu_navigation.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_detail.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/extraintent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/floatingactionbutton/src/main/res/layout/activity_main.xml" value="0.11626139817629179" />
@@ -44,6 +47,7 @@
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/intent/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/jobscheduler/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/listciew_adapter/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/livedata/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/locationmanager/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menu/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/82107/AndroidStudioProjects/AndroidLab/menuinflater/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
